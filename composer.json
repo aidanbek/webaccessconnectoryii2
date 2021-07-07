@@ -1,7 +1,7 @@
 {
   "name": "aidanbek/webaccessconnectoryii2",
   "type": "yii2-extension",
-  "license": "public domain",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "Provides requests to Landesk cope API from browser",
   "authors": [
